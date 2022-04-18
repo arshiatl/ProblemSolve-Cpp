@@ -1,0 +1,3 @@
+﻿  CircelRadius.cpp
+E:\cpp\CircelRadius\CircelRadius\CircelRadius.cpp(14,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CircelRadius.vcxproj -> E:\cpp\CircelRadius\x64\Debug\CircelRadius.exe
